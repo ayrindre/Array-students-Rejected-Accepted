@@ -1,0 +1,16 @@
+C:\Users\Farshad\Desktop\C#-samples\proje 3question\obj\Debug\net5.0\proje 3question.csproj.AssemblyReference.cache
+C:\Users\Farshad\Desktop\C#-samples\proje 3question\obj\Debug\net5.0\proje 3question.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farshad\Desktop\C#-samples\proje 3question\obj\Debug\net5.0\proje 3question.AssemblyInfoInputs.cache
+C:\Users\Farshad\Desktop\C#-samples\proje 3question\obj\Debug\net5.0\proje 3question.AssemblyInfo.cs
+C:\Users\Farshad\Desktop\C#-samples\proje 3question\obj\Debug\net5.0\proje 3question.csproj.CoreCompileInputs.cache
+C:\Users\Farshad\Desktop\C#-samples\proje 3question\bin\Debug\net5.0\proje 3question.exe
+C:\Users\Farshad\Desktop\C#-samples\proje 3question\bin\Debug\net5.0\proje 3question.deps.json
+C:\Users\Farshad\Desktop\C#-samples\proje 3question\bin\Debug\net5.0\proje 3question.runtimeconfig.json
+C:\Users\Farshad\Desktop\C#-samples\proje 3question\bin\Debug\net5.0\proje 3question.runtimeconfig.dev.json
+C:\Users\Farshad\Desktop\C#-samples\proje 3question\bin\Debug\net5.0\proje 3question.dll
+C:\Users\Farshad\Desktop\C#-samples\proje 3question\bin\Debug\net5.0\ref\proje 3question.dll
+C:\Users\Farshad\Desktop\C#-samples\proje 3question\bin\Debug\net5.0\proje 3question.pdb
+C:\Users\Farshad\Desktop\C#-samples\proje 3question\obj\Debug\net5.0\proje 3question.dll
+C:\Users\Farshad\Desktop\C#-samples\proje 3question\obj\Debug\net5.0\ref\proje 3question.dll
+C:\Users\Farshad\Desktop\C#-samples\proje 3question\obj\Debug\net5.0\proje 3question.pdb
+C:\Users\Farshad\Desktop\C#-samples\proje 3question\obj\Debug\net5.0\proje 3question.genruntimeconfig.cache
