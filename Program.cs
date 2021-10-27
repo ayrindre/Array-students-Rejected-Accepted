@@ -13,6 +13,8 @@ namespace proje_3question
             int m = 0;
             Console.WriteLine();
             Console.WriteLine("!!!--------------------------- Enter Student's Name ---------------------------!!!");
+
+            // حلقه گرفتن نام دانش آموزان
             while (name != "no")
             {
                 Console.WriteLine();
@@ -37,7 +39,7 @@ namespace proje_3question
             }
 
 
-            // حلقه نمره های زیر 10
+            // حلقه نمره های مردودی
             Console.WriteLine("*****************************|     Results     |**********************************");
             Console.WriteLine();
             Console.WriteLine("\t\t--------------->>> Rejected <<<--------------");
@@ -77,7 +79,7 @@ namespace proje_3question
             }
 
 
-            // حلقه مرتب کردن نمرات
+            //  حلقه مرتب کردن نمرات قبولی ها
             int temp = 0;
             string tempname = "";
             for (var i = 0; i < s; i++)
