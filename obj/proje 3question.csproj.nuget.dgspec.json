@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Farshad\\Desktop\\C#-samples\\proje 3question\\proje 3question.csproj": {}
+    "C:\\Users\\Farshad\\Desktop\\git hube\\Array of students\\Array-of-students-names-and-grades---Rejected---Accepted\\proje 3question.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Farshad\\Desktop\\C#-samples\\proje 3question\\proje 3question.csproj": {
+    "C:\\Users\\Farshad\\Desktop\\git hube\\Array of students\\Array-of-students-names-and-grades---Rejected---Accepted\\proje 3question.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Farshad\\Desktop\\C#-samples\\proje 3question\\proje 3question.csproj",
+        "projectUniqueName": "C:\\Users\\Farshad\\Desktop\\git hube\\Array of students\\Array-of-students-names-and-grades---Rejected---Accepted\\proje 3question.csproj",
         "projectName": "proje 3question",
-        "projectPath": "C:\\Users\\Farshad\\Desktop\\C#-samples\\proje 3question\\proje 3question.csproj",
+        "projectPath": "C:\\Users\\Farshad\\Desktop\\git hube\\Array of students\\Array-of-students-names-and-grades---Rejected---Accepted\\proje 3question.csproj",
         "packagesPath": "C:\\Users\\Farshad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Farshad\\Desktop\\C#-samples\\proje 3question\\obj\\",
+        "outputPath": "C:\\Users\\Farshad\\Desktop\\git hube\\Array of students\\Array-of-students-names-and-grades---Rejected---Accepted\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Farshad\\AppData\\Roaming\\NuGet\\NuGet.Config"
